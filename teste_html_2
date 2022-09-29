@@ -1,13 +1,25 @@
+<<<<<<< HEAD:index.html
 <!DOCTYPE html>
+=======
+---
+title: "apresentacao"
+author: "Gustavo Casteletti de Alcantara"
+date: "28/09/2022"
+output: html_document
+---
+>>>>>>> 3c253dadb9ef7547197d5be62be2436bd12d413e:teste_html_2
 
 <html>
 
 <head>
 
+<<<<<<< HEAD:index.html
 <meta charset="utf-8" />
 <meta name="generator" content="pandoc" />
 <meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
 
+=======
+>>>>>>> 3c253dadb9ef7547197d5be62be2436bd12d413e:teste_html_2
 
 <meta name="author" content="Gustavo Casteletti de Alcantara" />
 
