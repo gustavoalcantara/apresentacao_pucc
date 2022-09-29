@@ -1,8 +1,8 @@
 ---
 title: "24ª Semana Integrada do Ceatec"
 subtitle: "Mundo digital: perspectivas, oportunidades e desafios do profissional atual"
-author: "Gustavo Casteletti de Alcantara"
-date: "28/09/2022"
+author: "Gustavo Casteletti de Alcantara - Analista de Dados na Base dos Dados e Mestrando em Demografia na Unicamp"
+date: "29/09/2022"
 output:
    prettydoc::html_pretty:
     theme: architect
@@ -11,10 +11,32 @@ editor_options:
 ---
 
 ## Começando do começo
+### Formação
+- Ingressei na Geografia em 2012. Formei-me em 2017 em licenciatura e bacharelado. Todo período sendo bolsista NAS (antigo Vestibular Social (?)). 
 
-This is my history
+### Experiências na Graduação
+- Bolsista PIBID de 2012 a 2015 sob orientação da Profª. Drª. Vera Lúcia dos Santos Plácido. 
 
+- Estagiário do projeto de Infraestruturas de Dados Espaciais na Embrapa Monitoramento por Satélite (atual Embrapa Territorial) sob orientação de Débora Drucker (até 2016) e Daniela Maciel (pós2016). 
 
-## Imagens me dê imagens
+- Voluntário do Projeto Biotupé em 2016 sob orientação do Prof. Duarcides Mariosa. Elaborei, em conjunto com Danilo Mangaba, produções  cartográficas sobre risco hidrológico das comunidades ribeirinhas (RDS Tupé) no Rio Negro - AM.
 
-You can also embed plots, for example:
+### Experiências Pós Formado
+- Ingressei no mestrado em Sensoriamento Remoto do Inpe. Falhei, rsrs. 
+
+- Assistente Técnico de Projetos Sociais na Fundação Feac.
+
+- Professor de Geografia e Programação e Robótica no SESI-SP.
+
+- Analista de dados na Base dos Dados. 
+
+### Tá, mas e aí? 
+- Transição de Carreira ou Tsunami Tecnológico?
+
+- Preciso saber tudo de tudo ou ser especialista em algo? Perfil generalista X perfil especialista
+
+- Preciso saber programar? É dificil? 
+
+#Como a geografia contribuiu durante esse processo?
+- Conceitos
+
