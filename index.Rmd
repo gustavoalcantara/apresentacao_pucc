@@ -1,7 +1,7 @@
 ---
 title: "24ª Semana Integrada do Ceatec"
 subtitle: "Mundo digital: perspectivas, oportunidades e desafios do profissional atual"
-author: "Gustavo Casteletti de Alcantara - Analista de Dados na Base dos Dados e Mestrando em Demografia na Unicamp"
+author: "Gustavo Alcântara - Analista de Dados na Base dos Dados e Mestrando em Demografia na Unicamp"
 date: "29/09/2022"
 output:
    prettydoc::html_pretty:
@@ -37,6 +37,40 @@ editor_options:
 
 - Preciso saber programar? É dificil? 
 
-#Como a geografia contribuiu durante esse processo?
-- Conceitos
+### Como a geografia contribui durante esse processo?
+![imagem](C:/Users/User/Desktop/Gustavo/coisas/apresentacao_pucc/apresentacao_pucc/geografia_explicando.PNG)
+- Conceitos Espaciais (Ex. SAEB Analysis Lemann Foundation)
 
+![O que geramos](C:/Users/User/Desktop/Gustavo/coisas/apresentacao_pucc/apresentacao_pucc/escolas_codigo.PNG)
+
+![Proficência do SAEB no Ceará](C:/Users/User/Desktop/Gustavo/coisas/apresentacao_pucc/apresentacao_pucc/ceara_schools.PNG)
+
+- Conceitos Sócioespaciais(Mapa da Violência de Campinas)
+
+![Mapa da Violência de Campinas](C:/Users/User/Desktop/Gustavo/coisas/apresentacao_pucc/apresentacao_pucc/mapa_violencia.PNG)
+
+- Compreendendo os Metadados/Dados Espaciais (Geobr and Beginners SIG Users)
+
+![Geobr](C:/Users/User/Desktop/Gustavo/coisas/apresentacao_pucc/apresentacao_pucc/qgis.PNG)
+
+
+- Conceitos de Sensoriamento Remoto (NDWI in Amazon Rainforest)
+
+![Amazonia pelo Projeto Biotupé](C:/Users/User/Desktop/Gustavo/coisas/apresentacao_pucc/apresentacao_pucc/amazon.PNG)
+
+- Conceitos de Sensoriamento e Orientação no Globo atráves do Minecraft Education
+![Conceitos](C:/Users/User/Desktop/Gustavo/coisas/apresentacao_pucc/apresentacao_pucc/mine.PNG)
+
+### Diquinhas, caso cê queira:
+- Priorize àquilo que você se considera bom/boa. 
+- Aprenda as técnicas, mas COMPREENDA e RELACIONE a teoria. 
+- Se quiser adentrar a área DEV/Tech, existe muito conteúdo. Mas, não existe receita de bolo. 
+- Tente trazer sempre o elemento espacial em suas análises e as relações com aquilo que você quer apresentar. [Veja](https://gustavoalcantara.github.io/bd_eleicoes/) 
+- Tenha sempre uma boa pergunta. Não trabalhe com dataframes imensos/gigantes.
+
+### Contato
+[E-mail](gustavo.ca.geografia@gmail.com)
+
+[github](https://github.com/gustavoalcantara)
+
+[Linkedin](https://www.linkedin.com/in/gustavoalcantarageografia/)
