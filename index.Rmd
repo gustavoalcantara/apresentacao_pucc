@@ -45,18 +45,17 @@ editor_options:
 
 ![Proficência do SAEB no Ceará](C:/Users/User/Desktop/Gustavo/coisas/apresentacao_pucc/apresentacao_pucc/ceara_schools.PNG)
 
-- Conceitos Sócioespaciais(Mapa da Violência de Campinas)
+- Conceitos Sócioespaciais
 
 ![Mapa da Violência de Campinas](C:/Users/User/Desktop/Gustavo/coisas/apresentacao_pucc/apresentacao_pucc/mapa_violencia.PNG)
 
-- Compreendendo os Metadados/Dados Espaciais (Geobr and Beginners SIG Users)
+- Compreendendo Metadados/Dados Espaciais (Geobr and Beginners SIG Users)
 
 ![Geobr](C:/Users/User/Desktop/Gustavo/coisas/apresentacao_pucc/apresentacao_pucc/qgis.PNG)
 
-
 - Conceitos de Sensoriamento Remoto (NDWI in Amazon Rainforest)
 
-![Amazonia pelo Projeto Biotupé](C:/Users/User/Desktop/Gustavo/coisas/apresentacao_pucc/apresentacao_pucc/amazon.PNG)
+![Amazônia pelo Projeto Biotupé](C:/Users/User/Desktop/Gustavo/coisas/apresentacao_pucc/apresentacao_pucc/amazon.PNG)
 
 - Conceitos de Sensoriamento e Orientação no Globo atráves do Minecraft Education
 ![Conceitos](C:/Users/User/Desktop/Gustavo/coisas/apresentacao_pucc/apresentacao_pucc/mine.PNG)
