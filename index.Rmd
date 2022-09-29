@@ -69,7 +69,7 @@ editor_options:
 - Tenha sempre uma boa pergunta. Não trabalhe com dataframes imensos/gigantes.
 
 ### Contato
-[E-mail](gustavo.ca.geografia@gmail.com)
+[E-mail](mailto:gustavo.ca.geografia@gmail.com)
 
 [github](https://github.com/gustavoalcantara)
 
