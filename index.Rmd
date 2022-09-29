@@ -38,7 +38,8 @@ editor_options:
 - Preciso saber programar? É dificil? 
 
 ### Como a geografia contribui durante esse processo?
-![imagem](C:/Users/User/Desktop/Gustavo/coisas/apresentacao_pucc/apresentacao_pucc/geografia_explicando.PNG)
+![Se Liga:](C:/Users/User/Desktop/Gustavo/coisas/apresentacao_pucc/apresentacao_pucc/geografia_explicando.PNG)
+
 - Conceitos Espaciais (Ex. SAEB Analysis Lemann Foundation)
 
 ![O que geramos](C:/Users/User/Desktop/Gustavo/coisas/apresentacao_pucc/apresentacao_pucc/escolas_codigo.PNG)
